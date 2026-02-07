@@ -1,0 +1,77 @@
+{
+  "book_id": "medieval-european-documentary-class-struggle",
+  "title": "The Groan of Closing Stone",
+  "tagline": "In a village bound by debt and soil, the death of one man exposes the fragile, brutal calculus of survival and the quiet rebellion it breeds.",
+  "target_words": 69157,
+  "actual_words": 69157,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Brutal Calculus of Feudal Debt",
+    "The Silent Agency of the Oppressed",
+    "Memory and Erasure in a Pre-Literate World",
+    "The Body as a Site of Labour and Suffering"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Sentence in the Oak",
+      "words": 5763
+    },
+    {
+      "ch": 2,
+      "title": "A Text Written in Straw",
+      "words": 5763
+    },
+    {
+      "ch": 3,
+      "title": "Three Pennies of Hope",
+      "words": 5763
+    },
+    {
+      "ch": 4,
+      "title": "The Hall of Forgotten Skins",
+      "words": 5763
+    },
+    {
+      "ch": 5,
+      "title": "The Currency of Labour",
+      "words": 5763
+    },
+    {
+      "ch": 6,
+      "title": "A Breath from Stone Lung",
+      "words": 5763
+    },
+    {
+      "ch": 7,
+      "title": "The Taste of Damp Ash",
+      "words": 5763
+    },
+    {
+      "ch": 8,
+      "title": "The Groan of Closing Stone",
+      "words": 5763
+    },
+    {
+      "ch": 9,
+      "title": "A Different Artery",
+      "words": 5763
+    },
+    {
+      "ch": 10,
+      "title": "The Hush of Refusal",
+      "words": 5763
+    },
+    {
+      "ch": 11,
+      "title": "The Scent of Convalescence",
+      "words": 5763
+    },
+    {
+      "ch": 12,
+      "title": "Rain as a Solvent",
+      "words": 5763
+    }
+  ]
+}
